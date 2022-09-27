@@ -1,3 +1,4 @@
+// copy from https://aticleworld.com/state-machine-using-c/
 #include <stdio.h>
 //Different state of ATM machine
 typedef enum
